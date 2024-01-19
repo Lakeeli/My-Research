@@ -11,7 +11,7 @@ model = joblib.load('lgmb_model.pkl')
 
 # Set up the sidebar
 # Logo image
-image = Image.open('muk.jpg')
+image = Image.open('muk.jpeg')
 st.sidebar.image(image, width=300)
 st.sidebar.title('Upload CSV file')
 uploaded_file = st.sidebar.file_uploader("Choose a CSV file", type=["csv"])
