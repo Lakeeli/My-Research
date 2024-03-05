@@ -26,23 +26,19 @@ st.write("""
  """)
 
 st.write("""
-## A PREDICTION MODEL OF NEWLY DIAGNOSED HIV PATIENTS LIKELY TO FALL OFF TREATMENT.  A CASE OF MUKONO GENERAL REFERRAL HOSPITAL.
+## HIV LTFU E-SCREENING.
 
  """)
 
 # Project Description and Column Key
 st.write("""
-#### Background
-Introduction
-In spite of all the measures put in place to reduce the problem of lost to follow-up among PLHIV in Uganda for example the use of simple messaging service (SMS) to remind the patients about their next appointment among others, these have not effectively solved the problem. However, retaining PLWH in medical care is paramount to preventing new transmissions of the virus and allowing PLWH to live normal and healthy lifespans. While much effort and resources have been focused on tracing those LTFU and returning them to care, very little prior work has successfully addressed identifying those most at risk of dropping out of care while still engaged in care. Thus, this study aimed to develop a web-based application to predict newly diagnosed HIV patients likely to fall off treatment while still in care using machine learning.
+## To use this web application, click BROUSE FILES to upload the CSV file for prediction
+OR drag and drop the CSV file.
 
-General Objective
-To develop a predictive model for classifying patients to serve as a tool for health workers in predicting the newly diagnosed patients likely to fall off treatment at Mukono General Referral Hospital.
 
-Specific Objective
-1.	To identify factors that lead to lost to follow-up during HIV treatment.
-2.	To build HIV retention in care predictive machine learning models and evaluate their performance.
-3.	To develop a web-based interface for utilization of the identified best prediction model.
+
+
+
 """)
 
 
