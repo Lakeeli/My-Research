@@ -32,7 +32,9 @@ st.write("""
 
 # Project Description and Column Key
 st.write("""
-### To use this web application, click BROUSE FILES to upload the CSV file for prediction OR drag and drop the CSV file.
+### To use this web application, click BROUSE FILES to upload the CSV file for prediction
+### OR 
+### DRAG and DROP the CSV file.
 
 
 
