@@ -26,14 +26,13 @@ st.write("""
  """)
 
 st.write("""
-## HIV LTFU E-SCREENING.
+## HIV LTFU E-SCREENING WEB APPLICATION.
 
  """)
 
 # Project Description and Column Key
 st.write("""
-## To use this web application, click BROUSE FILES to upload the CSV file for prediction
-OR drag and drop the CSV file.
+### To use this web application, click BROUSE FILES to upload the CSV file for prediction OR drag and drop the CSV file.
 
 
 
