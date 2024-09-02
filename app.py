@@ -14,7 +14,7 @@ model = joblib.load('lgmb_model.pkl')
 image = Image.open('muk.jpeg')
 st.sidebar.image(image, width=300)
 st.sidebar.title('Upload CSV file')
-uploaded_file = st.sidebar.file_uploader("Choose a CSG file", type=["csv"])
+uploaded_file = st.sidebar.file_uploader("Choose a CSV file", type=["csv"])
 st.sidebar.markdown("""
 [Example input file](sample.csv)
 """)
